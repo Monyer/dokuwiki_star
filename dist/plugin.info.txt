@@ -1,0 +1,7 @@
+base   star
+author monyer
+email  monyer@126.com
+date   2017-04-25
+name   star plugin
+desc   make a star by using <star 00|05|10|15|20|25|30|35|40|45|50></star>
+url    http://monyer.com/

@@ -1,0 +1,25 @@
+
+.bigstar50{background-position:0 0 !important;}
+.bigstar45{background-position:0 -15px !important;}
+.bigstar40{background-position:0 -30px !important;}
+.bigstar35{background-position:0 -45px !important;}
+.bigstar30{background-position:0 -60px !important;}
+.bigstar25{background-position:0 -75px !important;}
+.bigstar20{background-position:0 -90px !important;}
+.bigstar15{background-position:0 -105px !important;}
+.bigstar10{background-position:0 -120px !important;}
+.bigstar05,.bigstar5{background-position:0 -135px !important;}
+.bigstar00,.bigstar0{background-position:0 -150px !important;}
+
+.bigstar50, .bigstar45, .bigstar40, .bigstar35, 
+.bigstar30, .bigstar25, .bigstar20, .bigstar15, 
+.bigstar10, .bigstar05, .bigstar5, .bigstar00, .bigstar0 {
+    display: inline-block;
+    background: url(images/star.png) no-repeat;
+    width: 75px;
+    height: 15px;
+/*
+    zoom: 1;
+    margin: 1px 0 0 0;
+    overflow: hidden;*/
+}
